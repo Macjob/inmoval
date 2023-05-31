@@ -44,10 +44,11 @@ const Home = () => {
         icon="product-launch.svg"
         id="mission"
       />
-      <ContentBlock
+      <ContentBlock 
         type="left"
         title={ProductContent.title}
-        content={ProductContent.text}
+        content={ProductContent.text.replace(/(?:\r\n|\r|\n)/g, '<br>')}        
+        
         icon="waving.svg"
         id="product"
       />

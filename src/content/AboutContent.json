@@ -1,16 +1,11 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Inmoval",
+  "text": "Somos especialistas en programación, duplicado y reparación de llaves con chip, y copias de control remoto. Nuestro equipo capacitado ofrece soluciones confiables para todas tus necesidades. Utilizamos tecnología avanzada para programar y duplicar llaves con chip. Reparamos llaves dañadas y ofrecemos copias precisas de control remoto. Contáctanos para duplicados, reparaciones y copias confiables de control remoto.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Porque Inmoval?",
+      "content": "Elige nuestro servicio y confía en nuestro equipo altamente capacitado y en nuestra tecnología avanzada para obtener soluciones confiables y de calidad en programación, duplicado y reparación de llaves con chip, brindándote tranquilidad y satisfacción.",
       "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
+    }    
   ]
 }

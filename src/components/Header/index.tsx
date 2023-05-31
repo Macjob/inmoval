@@ -30,6 +30,7 @@ const Header = ({ t }: any) => {
   const MenuItem = () => {
     const scrollTo = (id: string) => {
       const element = document.getElementById(id) as HTMLDivElement;
+      console.log(element);
       element.scrollIntoView({
         behavior: "smooth",
       });
